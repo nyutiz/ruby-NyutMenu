@@ -47,14 +47,15 @@ end
 def help()
     puts 'Command list:
 - shell                    :start os terminal
-                            ╚═"sudo su" for total control
+                            ╚═"sudo su" on linux for total control
+                              ╚═Some commands do not work on Windows.
 - server/client            :server client chat
 - clear                    :clear terminal
 - exit to left
 
 
-Created by nyutiz#6350
-Available on www.nyutiz.ga/nyutMenuRUBY.html
+Created by nyutiz#6350 on discord, feel free to ask me any questions or if you need any help.
+Available on www.nyutiz.ga/nyutMenuRUBY.html (This website is not yet operational.)
 '
 end
 
